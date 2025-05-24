@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+form{
+    border: 1px solid black;
+    width: 25%;
+    padding: 20px;
+    
+
+}
+
+label{
+    text-align: center;
+}
+
+input{
+    margin: 5px; 
+}
+
